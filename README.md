@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-#### I am Adila Abudureheman, a software engineer
+### I am Adila Abudureheman, a software engineer
 
 - 🔭 I am passionate about software development and especially backend development. 
 - 🌱 I am comfortable coding in Java, Python, Javascript, C++.
